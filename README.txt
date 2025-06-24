@@ -53,3 +53,4 @@ SUPPORT:
 --------
 This tool was built for fast offline PDF merging with a clean interface.
 Feel free to extend it further — you have the code!
+________________________________________________________________________________________________
