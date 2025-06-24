@@ -53,4 +53,11 @@ SUPPORT:
 --------
 This tool was built for fast offline PDF merging with a clean interface.
 Feel free to extend it further — you have the code!
+
+DOWNLOAD:
+---------
+to download the .exe file, go to:
+https://github.com/Maocan-dev/joinXML2PDF/tree/main/dist
+
+
 ________________________________________________________________________________________________
