@@ -6,20 +6,21 @@ This tool lets you convert XML files into formatted PDFs and automatically merge
 
 ## ✨ Features
 
-- Converts XML files into readable PDFs  
-- Finds a matching base PDF by name (e.g., `data.xml` + `data.pdf`)  
-- Merges both into a new `data(merged).pdf`  
-- Friendly GUI to select folders  
-- Real-time processing log  
+- Converts XML files into readable PDFs
+- Finds a matching base PDF by name (e.g., `data.xml` + `data.pdf`)
+- Merges both into a new `data(merged).pdf`
+- Friendly GUI to select folders
+- Real-time processing log
 
 ## 🖥️ Requirements
 
-- Windows 10 or newer  
-- Python 3.8+ (only if running the `.py` script instead of `.exe`)  
-- Installed `wkhtmltopdf` tool (see below)  
-- Python libraries (only for `.py` script):  
+- Windows 10 or newer
+- Python 3.8+ (only if running the `.py` script instead of `.exe`)
+- Installed `wkhtmltopdf` tool (see below)
+- Python libraries (only for `.py` script):
   ```bash
   pip install pdfkit PyPDF2
+  ```
 
 ## 🛠️ wkhtmltopdf Installation
 
@@ -62,4 +63,6 @@ This tool was built for fast offline PDF merging with a clean interface. Feel fr
 
 ## 📥 Download
 
-### To download the .exe file, go to: https://github.com/Maocan-dev/joinXML2PDF/tree/main/dist
+## To download the .exe file, go to:
+
+### https://github.com/Maocan-dev/joinXML2PDF/tree/main/dist
