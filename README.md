@@ -78,6 +78,6 @@ The base PDF name must match the XML filename (ignoring extensions) Example:
 
 ## 📥 Download
 
-## To download the .exe file, go to:
+### To download the .exe file, go to:
 
 ### https://github.com/Maocan-dev/joinXML2PDF/tree/main/dist
